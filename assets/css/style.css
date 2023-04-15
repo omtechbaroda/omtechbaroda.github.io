@@ -577,10 +577,7 @@ h6 {
 }
 
 @media (max-width: 991px) {
-  #herox  {
-    height: 100vh;
-    text-align: center;
-  }
+  
 
   #herox  .animated {
     animation: none;
